@@ -63,15 +63,7 @@ I focus on writing clean, scalable code and building real-world products.
 - Large-scale production platforms  
 - Built scalable UI components  
 - Integrated smart contracts (DeFi)
-
----
-
-## 📊 GitHub Stats
-
-![Maha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahaiqbal33&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaiqbal33&layout=compact)
-
+- 
 ---
 
 ## 📫 Connect With Me
@@ -83,9 +75,9 @@ I focus on writing clean, scalable code and building real-world products.
 
 ## 💡 Currently
 
-- 🚀 Looking for new opportunities  
-- 📱 Improving React Native & performance optimization  
-- 🔗 Exploring deeper into Web3  
+🚀 Open to Full Stack, Frontend, and React Native Developer roles
+📱 Focused on building high-performance mobile applications
+🔗 Deepening knowledge in Web3 technologies and blockchain systems
 
 ---
 
